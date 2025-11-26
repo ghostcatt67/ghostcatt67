@@ -1,29 +1,28 @@
 <div align="center">
 <hr>
- 
-<img src="https://adriansblinkiecollection.neocities.org/stamps/b37.gif">
-<img src="https://adriansblinkiecollection.neocities.org/stamps/c12.png">
-<img src="https://adriansblinkiecollection.neocities.org/stamps/c15.png">
-<img src="https://adriansblinkiecollection.neocities.org/stamps/b20.gif">
-<img src="https://adriansblinkiecollection.neocities.org/stamps/b42.gif">
+<img src="https://64.media.tumblr.com/6ad41039bb819619640fafe0af4a28ff/3fda5e44e12fd176-58/s100x200/6048ce7c2cdaf28290fa4883080c7aba82943066.pnj">
+<img src="https://64.media.tumblr.com/6d8070c083cf7a8c91a803921ce4c6de/3061a5a1dfc104a8-41/s100x200/8cfc202686bd9ec347f0493b93f5837bdfed5b1e.gifv">
+<img src="https://64.media.tumblr.com/63d4347916b07d990a4160f24fee7040/3061a5a1dfc104a8-8e/s100x200/00b23e6a493281b9c165c838256b5251f129d0a0.pnj">
+<img src="https://64.media.tumblr.com/837c65792605f28efcd1fb9afd8c19fc/1344d672e2b2c2ad-5f/s100x200/ae326ee0479d05c7f6182749e850dad400778d30.pnj">
+<img src="https://64.media.tumblr.com/4a47475d5aea05b7cd6e7265e2cb53ba/3061a5a1dfc104a8-5e/s100x200/67fb37a04edec6a6e8d61e6f6f192c69b59202c4.pnj">
 <br>
 <br>
-<img src="https://adriansblinkiecollection.neocities.org/x44.gif">
-<img src="https://adriansblinkiecollection.neocities.org/x2.gif">
-<img src="https://adriansblinkiecollection.neocities.org/y30.gif">
-<img src="https://adriansblinkiecollection.neocities.org/x15.gif">
-<img src="https://adriansblinkiecollection.neocities.org/u4.gif">
+<img src="https://64.media.tumblr.com/dbc497ec9ac6c22810415699f93f1ee0/dbd8b1e992a56a49-9f/s250x400/9827b73af603a1cbaa397fd6856923ff33b3b1cc.gifv">
+<img src="https://64.media.tumblr.com/1de18fd7b3482ab04711674bf6daa223/4e0d1ce909e0596c-c0/s250x400/c54f9e6c6a3243cd2749145ea42f80ac34f9b0a2.gifv">
+<img src="https://64.media.tumblr.com/4ad6885e96c2bc10a9c2cff7ef73b69d/4e0d1ce909e0596c-31/s250x400/c03c4bd4b8e7bb528f9e8b9496bb7a5f9928f70b.gifv">
+<img src="https://64.media.tumblr.com/ad448d2976d01b6bc5a84f3115bb0ba4/f2b5493b2fc3fac3-1d/s250x400/bf3ed06afcfeed9e52d5d27972b44f736271a9be.webp">
+<img src="https://64.media.tumblr.com/b7b19d10788c2fb539ecbbfc29e5c7ae/8dc063230d650b6b-9a/s250x400/994df8162ffb0c219c82a45ad8cc1fae2b09304b.gifv">
 <br>
 <br>
-<img src="https://64.media.tumblr.com/347ccacf3cd77686fba257c92e7603de/779aa251fd339498-fb/s2048x3072/445f8e247d75afe344a23d84ba4afb200f8a9cde.pnj">
+<img src="https://64.media.tumblr.com/27c6cf0846f68c2b01c0bc224f3f9efd/9156a94e3651fdf4-67/s540x810/9ec38538a42815f363123fea96511ea30438ce51.gifv">
 <br>
-<img src="https://adriansblinkiecollection.neocities.org/stamps/b9.gif">
-<img src="https://adriansblinkiecollection.neocities.org/stamps/b57.png">
-<img src="https://adriansblinkiecollection.neocities.org/stamps/b42.gif">
-<img src="https://adriansblinkiecollection.neocities.org/stamps/b48.jpg">
-<img src="https://adriansblinkiecollection.neocities.org/stamps/b44.png">
-<img src="https://adriansblinkiecollection.neocities.org/stamps/c2.gif">
-<img src="https://adriansblinkiecollection.neocities.org/stamps/b65.gif">
+<img src="https://64.media.tumblr.com/09659eead0cbf767f523b089a00a6625/b8bc0bdaa278ce26-98/s100x200/c69a7a5a05e0b551ebf0c34c27b3b584c8762904.jpg">
+<img src="https://64.media.tumblr.com/8f5f15e0aac66537b52c7757d692354c/b8bc0bdaa278ce26-1d/s100x200/ba5c3ba6757841eb2f1cb978e8c6e7f92880df09.pnj">
+<img src="https://64.media.tumblr.com/b23dd01931a2ddee975426c87ecb7164/b8bc0bdaa278ce26-14/s100x200/25b9de1328c1d3f4ab0f8ea2dcc81721cb743971.jpg">
+<img src="https://64.media.tumblr.com/8d95814c0b2fa269d60d6b474526792d/b8bc0bdaa278ce26-db/s100x200/ecd2b4b5dd79d11ec4cac323d55249f94bb6702e.jpg">
+<img src="https://64.media.tumblr.com/d14be40d99d597bc76730d9528061f09/b8bc0bdaa278ce26-71/s100x200/550378fce8faee305252fbeeaeddc713d61dfd2e.gifv">
+<img src="https://64.media.tumblr.com/dd22d7540a3c7e4772d68f3dfc1f6fb1/b8bc0bdaa278ce26-11/s100x200/5464a2a077abfb08fc402f18bbba302ee6b0e555.jpg">
+<img src="https://64.media.tumblr.com/551d127c1d3d6d7f77717ae49456a415/b8bc0bdaa278ce26-c7/s100x200/2e96b89727f5ed93b1c1aa2f08331daffb80d1ce.gifv">
 <br>
 <img src="https://64.media.tumblr.com/f34ef860ee3c16f193e301c3574ef519/215cf8b0e7f43249-8f/s400x600/2febf294bc87a5e3e2d19dcbf1705981eee4b7db.webp">
 <img src="https://64.media.tumblr.com/f34ef860ee3c16f193e301c3574ef519/215cf8b0e7f43249-8f/s400x600/2febf294bc87a5e3e2d19dcbf1705981eee4b7db.webp">
