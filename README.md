@@ -40,6 +40,15 @@
   <br>
   <br>
   <a href="https://github.com/stars/ghostcatt67/lists/free-respositories">
-    <img src="https://64.media.tumblr.com/65dd776507da55558f0e9dea48ac29cb/eda66b522109e06e-43/s400x600/f36e8ed9d991ba3a476038274d8f13e71676be1e.pnj">
+    <img src="https://64.media.tumblr.com/65dd776507da55558f0e9dea48ac29cb/eda66b522109e06e-43/s400x600/f36e8ed9d991ba3a476038274d8f13e71676be1e.pnj" width="250" height="250">
   </a>
+  <a href="https://github.com/stars/ghostcatt67/lists/commissions">
+    <img src="https://64.media.tumblr.com/b30fb46a8a17f4bfc69e765e31b935e5/eda66b522109e06e-a0/s400x600/48f45f6375bb27b692860129195b633bbc14f818.pnj" width="250" height="250">
+  </a>
+  <a href="https://github.com/stars/ghostcatt67/lists/other-coding-projects">
+    <img src="https://64.media.tumblr.com/0ae7b97e872ccc6a350d5de24f1c5434/eda66b522109e06e-ff/s400x600/9461bb88b25e89cf79be0b12b1d26ccc3b7e5a71.pnj" width="250" height="250">
+  </a>
+  <br>
+  <br>
+  <h2>𝑪𝒍𝒊𝒄𝒌 𝒐𝒇 𝒕𝒉𝒆 𝒍𝒊𝒕𝒕𝒍𝒆 𝒔𝒊𝒍𝒍𝒚 𝒍𝒊𝒕𝒕𝒍𝒆 𝒃𝒖𝒕𝒕𝒐𝒏𝒔 𝒕𝒆𝒆 𝒉𝒆𝒆</h2>
 </div>
