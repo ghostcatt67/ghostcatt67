@@ -53,11 +53,11 @@
   <h2>𝑪𝒍𝒊𝒄𝒌 𝒐𝒇 𝒕𝒉𝒆 𝒍𝒊𝒕𝒕𝒍𝒆 𝒔𝒊𝒍𝒍𝒚 𝒍𝒊𝒕𝒕𝒍𝒆 𝒃𝒖𝒕𝒕𝒐𝒏𝒔 𝒕𝒆𝒆 𝒉𝒆𝒆</h2>
   <br>
   <br>
-  <a href"https://github.com/ghostcatt67/How-to-fork">
-    <img src="https://lh3.googleusercontent.com/sitesv/AAzXCkcnvop7N0NMn2l4glMuHn-JmQ-gpMYu0okT87Wlkmzp7qkWrfmElulEAW9fDWmb5iUyeQBNuhy0IQuO4ic_YkGS2yR1dO_d0OqGrMG0fG8t5Zk5WsDPu9ACwZH47LhlqpfzCkhtNCZtJrXGDMPbm7zuYKDcr_SwBfXTix5Khz0G1w3K37FpytrglrSojtpOtBMgM_tJKErhgaH5B5wEQMl6UDPNZLpf8Q=w1280">
+  <a href="https://github.com/ghostcatt67/How-to-fork">
+    <img src="https://64.media.tumblr.com/a01dc9bcbc046d04324729800769d44a/cfbcda0ec814f914-df/s400x600/fbb181dd3b7900b346140b0773105481519d7683.pnj">
   </a>
-  <a href"https://youtube.com">
-    <img src="https://lh3.googleusercontent.com/sitesv/AAzXCkcoBfqu5opQBmKibyNJ8omFcRyYK1Pv6MYnR2oVNWAnq0W34gCvCC42AJ-6CTJOeqbB7eb44JMo9XipswdiVLEVyDoFx_r1fNojoJHV9pyFPURuCqxmN7iN7vfaljR3gxvwdvPpGewtW_0kqGFzlVgPG1mggjVjXyTcwhgiGbL6mGcgdxda26YvUe-6THyQUnxuidKRNbaf-sBfd9bw4qX94NgXFaMqkgoo=w1280">
+  <a href="https://youtube.com">
+    <img src="https://64.media.tumblr.com/f0215caef0ae9f57282ccd5c0824f7cd/cfbcda0ec814f914-d8/s400x600/b446c078fb9e425245db7c1bcc21dc16434cff80.pnj">
   </a>
   <br>
   <br>
