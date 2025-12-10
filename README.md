@@ -50,16 +50,12 @@
   </a>
   <br>
   <br>
-  <h2>𝑪𝒍𝒊𝒄𝒌 𝒐𝒇 𝒕𝒉𝒆 𝒍𝒊𝒕𝒕𝒍𝒆 𝒔𝒊𝒍𝒍𝒚 𝒍𝒊𝒕𝒕𝒍𝒆 𝒃𝒖𝒕𝒕𝒐𝒏𝒔 𝒕𝒆𝒆 𝒉𝒆𝒆</h2>
-  <br>
-  <br>
   <a href="https://github.com/ghostcatt67/How-to-fork">
-    <img src="https://64.media.tumblr.com/a01dc9bcbc046d04324729800769d44a/cfbcda0ec814f914-df/s400x600/fbb181dd3b7900b346140b0773105481519d7683.pnj">
+    <img src="https://64.media.tumblr.com/a01dc9bcbc046d04324729800769d44a/cfbcda0ec814f914-df/s400x600/fbb181dd3b7900b346140b0773105481519d7683.pnj" width="250" height="250">
   </a>
   <a href="https://youtube.com">
-    <img src="https://64.media.tumblr.com/f0215caef0ae9f57282ccd5c0824f7cd/cfbcda0ec814f914-d8/s400x600/b446c078fb9e425245db7c1bcc21dc16434cff80.pnj">
+    <img src="https://64.media.tumblr.com/f0215caef0ae9f57282ccd5c0824f7cd/cfbcda0ec814f914-d8/s400x600/b446c078fb9e425245db7c1bcc21dc16434cff80.pnj" width="250" height="250">
   </a>
   <br>
-  <br>
-  <h2>s</h2>
+  <h2>If you click the button, it will take you to the respective site!</h2>
 </div>
