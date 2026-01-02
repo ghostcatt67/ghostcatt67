@@ -6,7 +6,6 @@
   <img src="https://64.media.tumblr.com/9332b40fb9a21a31b0207c0a814fbeba/85edfd53d6d2bedd-ce/s2048x3072/e21f6fcd91fedc0323431d1f4514d14952152d95.pnj">
   <br>
   <img src="https://64.media.tumblr.com/4590ef447fd57ad8a63469a97b4f8262/e6b0bce65cb901c8-6d/s250x400/4cc428f15cd7733b7e009b67f6ec5f3203647103.gifv">
-  <img src="https://64.media.tumblr.com/11f3ff20b28f3767b1fef4aa64d4f7ea/e6b0bce65cb901c8-03/s250x400/ebe1064b8d6bac02cad1f909730b462e73aed873.gifv">
   <img src="https://blinkie.world/blinkies/green%20blinkies/I%20LUV%20BRAINZ.gif">
   <img src="https://blinkie.world/blinkies/green%20blinkies/Blink%20Blink%20blink%20blink.gif">
   <img src="https://blinkie.world/blinkies/green%20blinkies/PLEASE%20DON'T%20BREATHE%20ON%20ME%20YOU'RE%20BLEACHING%20MY%20HAIR!.gif">
@@ -27,7 +26,7 @@
   <br>
   <img src="https://64.media.tumblr.com/2e1f69cc40b1193b54d11a077fb2c660/07ce287169938866-b7/s640x960/b72def5ca2edfd23afb2d113290626565421404b.gifv" width="7000" height="7000">
   <br>
-  <img src="https://64.media.tumblr.com/4e8e8cbeba9a8060f503e53fa4407082/1811890b1ad0fd10-e3/s1280x1920/c929e4e9b94e05b19b86cefe8b3e8c98150ad6b0.pnj" width="506" height="550"><img src="https://64.media.tumblr.com/ad760be1fc798f9d046640dbfaeb36b3/a04bc524f308c60d-a5/s1280x1920/737a245a6ffc759571d95b43c1378dabca836d15.pnj" width="505" height="550">
+  <img src="https://64.media.tumblr.com/4e8e8cbeba9a8060f503e53fa4407082/1811890b1ad0fd10-e3/s1280x1920/c929e4e9b94e05b19b86cefe8b3e8c98150ad6b0.pnj" width="405" height="550"><img src="https://64.media.tumblr.com/ad760be1fc798f9d046640dbfaeb36b3/a04bc524f308c60d-a5/s1280x1920/737a245a6ffc759571d95b43c1378dabca836d15.pnj" width="405" height="550">
   <br>
   <img src="https://64.media.tumblr.com/53c9fd31047ddb17d9cfa61c71bc784a/c3dcb6411d93651e-d9/s2048x3072/997b913a36724714a76552c3f0ee30afa4ab11ee.pnj">
   <br>
