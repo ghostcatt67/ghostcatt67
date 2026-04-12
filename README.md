@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="https://64.media.tumblr.com/b7897720a518e4415c832183bbfa2f07/fcd411b1724c1679-d7/s2048x3072/8291c85619ee722bbfdf5575fe39424909857e34.pnj">
+  <img src="https://64.media.tumblr.com/c27275d896fb42674508bb8444d67620/deeb1888c525a9c0-c4/s1280x1920/c928ccdac6bd45f992082de3281267ccd04a73cc.pnj" width="800" height="800">
   <br>
-  <img src="https://64.media.tumblr.com/fbedef72e57affc7a522cee78463b556/1b237aec2841b9da-94/s1280x1920/abaa087f860190d135f2dd7086e59d3aa9d39942.pnj">
-  <br>
-  <img src="https://64.media.tumblr.com/13bd11f33c4a3e4661031ed9467bc99f/657681c6ba1ad838-b0/s500x750/aded2f744e2d5301444ca27ca335e0463bcc6d49.gifv" width="7000" height="7000">
+  <img src="https://64.media.tumblr.com/13bd11f33c4a3e4661031ed9467bc99f/657681c6ba1ad838-b0/s500x750/aded2f744e2d5301444ca27ca335e0463bcc6d49.gifv" width="800" height="800">
   <br>
   <img src="https://64.media.tumblr.com/4590ef447fd57ad8a63469a97b4f8262/e6b0bce65cb901c8-6d/s250x400/4cc428f15cd7733b7e009b67f6ec5f3203647103.gifv">
   <img src="https://blinkie.world/blinkies/green%20blinkies/I%20LUV%20BRAINZ.gif">
@@ -26,7 +24,7 @@
   <br>
   <img src="https://64.media.tumblr.com/2e1f69cc40b1193b54d11a077fb2c660/07ce287169938866-b7/s640x960/b72def5ca2edfd23afb2d113290626565421404b.gifv" width="7000" height="7000">
   <br>
-  <img src="https://64.media.tumblr.com/4e8e8cbeba9a8060f503e53fa4407082/1811890b1ad0fd10-e3/s1280x1920/c929e4e9b94e05b19b86cefe8b3e8c98150ad6b0.pnj" width="405" height="550"><img src="https://64.media.tumblr.com/ad760be1fc798f9d046640dbfaeb36b3/a04bc524f308c60d-a5/s1280x1920/737a245a6ffc759571d95b43c1378dabca836d15.pnj" width="405" height="500">
+  <img src="https://64.media.tumblr.com/04e2253572b50efab15b88c63ae7d29c/8f1b151ad626ef54-7d/s500x750/59cfcf005e823046be44d16bb85d7f27048b57f3.pnj" width="405" height="550"><img src="https://64.media.tumblr.com/bc08fe8dfba4076b00dfc78f78765524/08b12b3deb361005-b7/s500x750/26d583a28af46b3435ccd84aa07fefc88612edc5.pnj" width="405" height="500">
   <br>
   <img src="https://64.media.tumblr.com/53c9fd31047ddb17d9cfa61c71bc784a/c3dcb6411d93651e-d9/s2048x3072/997b913a36724714a76552c3f0ee30afa4ab11ee.pnj">
   <br>
@@ -59,7 +57,5 @@
   <br>
   <img src="https://dividers.crd.co/assets/images/gallery08/07d886d2.gif?v=05d33f91" width="7000" height="7000">
   <br>
-  <img src="https://64.media.tumblr.com/4ec43b75696b783936c36d9703cc5074/7cdf07e1a936e56e-96/s640x960/3b973aec4c73d521dda294ca97901edeb092f285.pnj">
-  <br>
-  <img src="https://64.media.tumblr.com/ac1d9e06fe8818ff938d6f96bb564751/fcd411b1724c1679-12/s2048x3072/a7f111a95303e8b8fc41a9806b0e8460b7bd9e2b.pnj">
+  <img src="https://64.media.tumblr.com/b9433071ae6b0259b9c53143729f690a/16ab06abc68282b9-94/s400x600/05a8acba6e73d83ae9285fd8efd86594b8628964.pnj" width="300" height="300"><img src="https://64.media.tumblr.com/ae0745772fb56844be5b44426d8fae67/d96dc170056ab701-1d/s400x600/819a0017fc23170c2b6a7e5398e641f9124a6802.pnj" width="300" height="300">
 </div>
