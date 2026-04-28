@@ -57,6 +57,5 @@
   <br>
   <img src="https://dividers.crd.co/assets/images/gallery08/07d886d2.gif?v=05d33f91" width="1000">
   <br>
-  <img src="https://64.media.tumblr.com/b9433071ae6b0259b9c53143729f690a/16ab06abc68282b9-94/s400x600/05a8acba6e73d83ae9285fd8efd86594b8628964.pnj"><a href="https://linktr.ee/sasha_ivanon"><img src="https://64.media.tumblr.com/ae0745772fb56844be5b44426d8fae67/d96dc170056ab701-1d/s400x600/819a0017fc23170c2b6a7e5398e641f9124a6802.pnj">
+  <img src="https://64.media.tumblr.com/b9433071ae6b0259b9c53143729f690a/16ab06abc68282b9-94/s400x600/05a8acba6e73d83ae9285fd8efd86594b8628964.pnj"><a href="https://linktr.ee/sasha_ivanon"><img src="https://64.media.tumblr.com/ae0745772fb56844be5b44426d8fae67/d96dc170056ab701-1d/s400x600/819a0017fc23170c2b6a7e5398e641f9124a6802.pnj"></a>
 </div>
-  </a>a>
